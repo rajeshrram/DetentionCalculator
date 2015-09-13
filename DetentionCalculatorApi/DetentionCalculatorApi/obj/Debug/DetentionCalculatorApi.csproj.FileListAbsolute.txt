@@ -1,0 +1,5 @@
+D:\GitHubProjects\DetentionCalculator\DetentionCalculatorApi\DetentionCalculatorApi\obj\Debug\DetentionCalculatorApi.csprojResolveAssemblyReference.cache
+D:\GitHubProjects\DetentionCalculator\DetentionCalculatorApi\DetentionCalculatorApi\bin\Debug\DetentionCalculatorApi.dll
+D:\GitHubProjects\DetentionCalculator\DetentionCalculatorApi\DetentionCalculatorApi\bin\Debug\DetentionCalculatorApi.pdb
+D:\GitHubProjects\DetentionCalculator\DetentionCalculatorApi\DetentionCalculatorApi\obj\Debug\DetentionCalculatorApi.dll
+D:\GitHubProjects\DetentionCalculator\DetentionCalculatorApi\DetentionCalculatorApi\obj\Debug\DetentionCalculatorApi.pdb
